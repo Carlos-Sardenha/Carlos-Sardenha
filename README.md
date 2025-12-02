@@ -133,3 +133,6 @@ Me chamo Carlos Alberto Sardenha Filho, tenho 20 anos e sou natural de São Paul
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Sardenha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/><br/>
+
